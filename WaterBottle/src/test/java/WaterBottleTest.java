@@ -2,7 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 public class WaterBottleTest {
-    WaterBottle waterB;
+    private WaterBottle waterB;
 
     @Before
     public void before(){

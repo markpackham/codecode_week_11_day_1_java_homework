@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class CalculatorTest {
-    Calculator calc;
+    private Calculator calc;
 
     @Before
     public void before(){
